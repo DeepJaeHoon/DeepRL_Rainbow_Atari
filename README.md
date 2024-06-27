@@ -15,3 +15,7 @@
    가중치는 period 가중치를 사용했습니다.
 
 4. V5 환경에서 학습했습니다.
+
+
+https://github.com/DeepJaeHoon/DeepRL_Rainbow_Atari/assets/174041317/879bed1a-30c3-48d4-8a5c-78e4464c0239
+
